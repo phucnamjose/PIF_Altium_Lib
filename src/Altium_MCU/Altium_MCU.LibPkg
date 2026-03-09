@@ -50,23 +50,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Nordic.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KEIAXHFV
-
-[Document2]
 DocumentPath=Nordic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,8 +66,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KNINKWTG
 
-[Document3]
-DocumentPath=STM32.PcbLib
+[Document2]
+DocumentPath=Nordic.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -98,9 +81,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YGKFBDFH
+DocumentUniqueId=KEIAXHFV
 
-[Document4]
+[Document3]
 DocumentPath=STM32.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,8 +100,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AEFEZIHI
 
-[Document5]
-DocumentPath=ESP32.PcbLib
+[Document4]
+DocumentPath=STM32.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,9 +115,9 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WDQNPEGN
+DocumentUniqueId=YGKFBDFH
 
-[Document6]
+[Document5]
 DocumentPath=ESP32.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,6 +133,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FAKSKCOU
+
+[Document6]
+DocumentPath=ESP32.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WDQNPEGN
 
 [OutputGroup1]
 Name=Netlist Outputs
